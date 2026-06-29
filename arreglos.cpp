@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//cambio externo
+
 int sumaArreglo(int arr[], int n){
 	int suma = 0;
 	
@@ -114,7 +116,7 @@ void selectionSort(int arr[], int n){
 	}
 }
 
-//ORDENAMIENTO POR INSERCIÓN
+//ORDENAMIENTO POR INSERCIÃ“N
 void insertionSort(int arr[], int n){
 	int aux;
 	for (int i = 1; i < n; i++){
