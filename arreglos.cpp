@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 //cambio externo
+//comentario interno
 
 int sumaArreglo(int arr[], int n){
 	int suma = 0;
